@@ -1,0 +1,25 @@
+{
+  "name": "dddts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jguillermo/dddts.git"
+  },
+  "keywords": [
+    "ddd"
+  ],
+  "author": "Jose Guillermo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jguillermo/dddts/issues"
+  },
+  "homepage": "https://github.com/jguillermo/dddts#readme",
+  "dependencies": {
+    "lerna": "6.6.2"
+  }
+}
