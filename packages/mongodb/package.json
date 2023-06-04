@@ -1,0 +1,29 @@
+{
+  "name": "@dddts/mongodb",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Jose Guillermo <jguillermo@outlook.com>",
+  "homepage": "https://github.com/jguillermo/dddts#readme",
+  "license": "ISC",
+  "main": "lib/mongodb.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jguillermo/dddts.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/mongodb.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jguillermo/dddts/issues"
+  }
+}
